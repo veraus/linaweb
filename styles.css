@@ -17,7 +17,7 @@
 .demo-ribbon {
   width: 100%;
   height: 40vh;
-  background-image: url("./images/KraftPaper.jpg");
+  background-image: url("./images/KraftPaperSmall.jpg");
   background-color: #8B4513;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
