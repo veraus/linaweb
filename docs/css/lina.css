@@ -9,7 +9,12 @@ header i.material-icons {
 	display: block;
     margin-top:-205px; 
 }
-
+.firstnote {
+ position: relative;
+ bottom: 160px;
+ width:320px
+ left:40px;
+}
 /*card1 for product*/
 .card1.mdl-card{
   width: 512px;
