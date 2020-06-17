@@ -9,7 +9,7 @@ header i.material-icons {
 	display: block;
     margin-top:-205px; 
 }
-.firstnote {
+p.firstnote {
  position:relative;
  bottom:160px;
  width:320px;
